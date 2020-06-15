@@ -1,0 +1,2260 @@
+fileFormatVersion: 2
+guid: f0a2f1b1b1a7f49429d0bea5516bb3f8
+timeCreated: 1457559068
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spritesheet_tiles_0
+    21300002: spritesheet_tiles_1
+    21300004: spritesheet_tiles_2
+    21300006: spritesheet_tiles_3
+    21300008: spritesheet_tiles_4
+    21300010: spritesheet_tiles_5
+    21300012: spritesheet_tiles_6
+    21300014: spritesheet_tiles_7
+    21300016: spritesheet_tiles_8
+    21300018: spritesheet_tiles_9
+    21300020: spritesheet_tiles_10
+    21300022: spritesheet_tiles_11
+    21300024: spritesheet_tiles_12
+    21300026: spritesheet_tiles_13
+    21300028: spritesheet_tiles_14
+    21300030: spritesheet_tiles_15
+    21300032: spritesheet_tiles_16
+    21300034: spritesheet_tiles_17
+    21300036: spritesheet_tiles_18
+    21300038: spritesheet_tiles_19
+    21300040: spritesheet_tiles_20
+    21300042: spritesheet_tiles_21
+    21300044: spritesheet_tiles_22
+    21300046: spritesheet_tiles_23
+    21300048: spritesheet_tiles_24
+    21300050: spritesheet_tiles_25
+    21300052: spritesheet_tiles_26
+    21300054: spritesheet_tiles_27
+    21300056: spritesheet_tiles_28
+    21300058: spritesheet_tiles_29
+    21300060: spritesheet_tiles_30
+    21300062: spritesheet_tiles_31
+    21300064: spritesheet_tiles_32
+    21300066: spritesheet_tiles_33
+    21300068: spritesheet_tiles_34
+    21300070: spritesheet_tiles_35
+    21300072: spritesheet_tiles_36
+    21300074: spritesheet_tiles_37
+    21300076: spritesheet_tiles_38
+    21300078: spritesheet_tiles_39
+    21300080: spritesheet_tiles_40
+    21300082: spritesheet_tiles_41
+    21300084: spritesheet_tiles_42
+    21300086: spritesheet_tiles_43
+    21300088: spritesheet_tiles_44
+    21300090: spritesheet_tiles_45
+    21300092: spritesheet_tiles_46
+    21300094: spritesheet_tiles_47
+    21300096: spritesheet_tiles_48
+    21300098: spritesheet_tiles_49
+    21300100: spritesheet_tiles_50
+    21300102: spritesheet_tiles_51
+    21300104: spritesheet_tiles_52
+    21300106: spritesheet_tiles_53
+    21300108: spritesheet_tiles_54
+    21300110: spritesheet_tiles_55
+    21300112: spritesheet_tiles_56
+    21300114: spritesheet_tiles_57
+    21300116: spritesheet_tiles_58
+    21300118: spritesheet_tiles_59
+    21300120: spritesheet_tiles_60
+    21300122: spritesheet_tiles_61
+    21300124: spritesheet_tiles_62
+    21300126: spritesheet_tiles_63
+    21300128: spritesheet_tiles_64
+    21300130: spritesheet_tiles_65
+    21300132: spritesheet_tiles_66
+    21300134: spritesheet_tiles_67
+    21300136: spritesheet_tiles_68
+    21300138: spritesheet_tiles_69
+    21300140: spritesheet_tiles_70
+    21300142: spritesheet_tiles_71
+    21300144: spritesheet_tiles_72
+    21300146: spritesheet_tiles_73
+    21300148: spritesheet_tiles_74
+    21300150: spritesheet_tiles_75
+    21300152: spritesheet_tiles_76
+    21300154: spritesheet_tiles_77
+    21300156: spritesheet_tiles_78
+    21300158: spritesheet_tiles_79
+    21300160: spritesheet_tiles_80
+    21300162: spritesheet_tiles_81
+    21300164: spritesheet_tiles_82
+    21300166: spritesheet_tiles_83
+    21300168: spritesheet_tiles_84
+    21300170: spritesheet_tiles_85
+    21300172: spritesheet_tiles_86
+    21300174: spritesheet_tiles_87
+    21300176: spritesheet_tiles_88
+    21300178: spritesheet_tiles_89
+    21300180: spritesheet_tiles_90
+    21300182: spritesheet_tiles_91
+    21300184: spritesheet_tiles_92
+    21300186: spritesheet_tiles_93
+    21300188: spritesheet_tiles_94
+    21300190: spritesheet_tiles_95
+    21300192: spritesheet_tiles_96
+    21300194: spritesheet_tiles_97
+    21300196: spritesheet_tiles_98
+    21300198: spritesheet_tiles_99
+    21300200: spritesheet_tiles_100
+    21300202: spritesheet_tiles_101
+    21300204: spritesheet_tiles_102
+    21300206: spritesheet_tiles_103
+    21300208: spritesheet_tiles_104
+    21300210: spritesheet_tiles_105
+    21300212: spritesheet_tiles_106
+    21300214: spritesheet_tiles_107
+    21300216: spritesheet_tiles_108
+    21300218: spritesheet_tiles_109
+    21300220: spritesheet_tiles_110
+    21300222: spritesheet_tiles_111
+    21300224: spritesheet_tiles_112
+    21300226: spritesheet_tiles_113
+    21300228: spritesheet_tiles_114
+    21300230: spritesheet_tiles_115
+    21300232: spritesheet_tiles_116
+    21300234: spritesheet_tiles_117
+    21300236: clickminer_spritesheet_0
+    21300238: clickminer_spritesheet_1
+    21300240: clickminer_spritesheet_2
+    21300242: clickminer_spritesheet_3
+    21300244: clickminer_spritesheet_4
+    21300246: clickminer_spritesheet_5
+    21300248: clickminer_spritesheet_6
+    21300250: clickminer_spritesheet_7
+    21300252: clickminer_spritesheet_8
+    21300254: clickminer_spritesheet_9
+    21300256: clickminer_spritesheet_10
+    21300258: clickminer_spritesheet_11
+    21300260: clickminer_spritesheet_12
+    21300262: clickminer_spritesheet_13
+    21300264: clickminer_spritesheet_14
+    21300266: clickminer_spritesheet_15
+    21300268: clickminer_spritesheet_16
+    21300270: clickminer_spritesheet_17
+    21300272: clickminer_spritesheet_18
+    21300274: clickminer_spritesheet_19
+    21300276: clickminer_spritesheet_20
+    21300278: clickminer_spritesheet_21
+    21300280: clickminer_spritesheet_22
+    21300282: clickminer_spritesheet_23
+    21300284: clickminer_spritesheet_24
+    21300286: clickminer_spritesheet_25
+    21300288: clickminer_spritesheet_26
+    21300290: clickminer_spritesheet_27
+    21300292: clickminer_spritesheet_28
+    21300294: clickminer_spritesheet_29
+    21300296: clickminer_spritesheet_30
+    21300298: clickminer_spritesheet_31
+    21300300: clickminer_spritesheet_32
+    21300302: clickminer_spritesheet_33
+    21300304: clickminer_spritesheet_34
+    21300306: clickminer_spritesheet_35
+    21300308: clickminer_spritesheet_36
+    21300310: clickminer_spritesheet_37
+    21300312: clickminer_spritesheet_38
+    21300314: clickminer_spritesheet_39
+    21300316: clickminer_spritesheet_40
+    21300318: clickminer_spritesheet_41
+    21300320: clickminer_spritesheet_42
+    21300322: clickminer_spritesheet_43
+    21300324: clickminer_spritesheet_44
+    21300326: clickminer_spritesheet_45
+    21300328: clickminer_spritesheet_46
+    21300330: clickminer_spritesheet_47
+    21300332: clickminer_spritesheet_48
+    21300334: clickminer_spritesheet_49
+    21300336: clickminer_spritesheet_50
+    21300338: clickminer_spritesheet_51
+    21300340: clickminer_spritesheet_52
+    21300342: clickminer_spritesheet_53
+    21300344: clickminer_spritesheet_54
+    21300346: clickminer_spritesheet_55
+    21300348: clickminer_spritesheet_56
+    21300350: clickminer_spritesheet_57
+    21300352: clickminer_spritesheet_58
+    21300354: clickminer_spritesheet_59
+    21300356: clickminer_spritesheet_60
+    21300358: clickminer_spritesheet_61
+    21300360: clickminer_spritesheet_62
+    21300362: clickminer_spritesheet_63
+    21300364: clickminer_spritesheet_64
+    21300366: clickminer_spritesheet_65
+    21300368: clickminer_spritesheet_66
+    21300370: clickminer_spritesheet_67
+    21300372: clickminer_spritesheet_68
+    21300374: clickminer_spritesheet_69
+    21300376: clickminer_spritesheet_70
+    21300378: clickminer_spritesheet_71
+    21300380: clickminer_spritesheet_72
+    21300382: clickminer_spritesheet_73
+    21300384: clickminer_spritesheet_74
+    21300386: clickminer_spritesheet_75
+    21300388: clickminer_spritesheet_76
+    21300390: clickminer_spritesheet_77
+    21300392: clickminer_spritesheet_78
+    21300394: clickminer_spritesheet_79
+    21300396: clickminer_spritesheet_80
+    21300398: clickminer_spritesheet_81
+    21300400: clickminer_spritesheet_82
+    21300402: clickminer_spritesheet_83
+    21300404: clickminer_spritesheet_84
+    21300406: clickminer_spritesheet_85
+    21300408: clickminer_spritesheet_86
+    21300410: clickminer_spritesheet_87
+    21300412: clickminer_spritesheet_88
+    21300414: clickminer_spritesheet_89
+    21300416: clickminer_spritesheet_90
+    21300418: clickminer_spritesheet_91
+    21300420: clickminer_spritesheet_92
+    21300422: clickminer_spritesheet_93
+    21300424: clickminer_spritesheet_94
+    21300426: clickminer_spritesheet_95
+    21300428: clickminer_spritesheet_96
+    21300430: clickminer_spritesheet_97
+    21300432: clickminer_spritesheet_98
+    21300434: clickminer_spritesheet_99
+    21300436: clickminer_spritesheet_100
+    21300438: clickminer_spritesheet_101
+    21300440: clickminer_spritesheet_102
+    21300442: clickminer_spritesheet_103
+    21300444: clickminer_spritesheet_104
+    21300446: clickminer_spritesheet_105
+    21300448: clickminer_spritesheet_106
+    21300450: clickminer_spritesheet_107
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: clickminer_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1918
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1918
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: 65}
+        - {x: -56, y: -52}
+        - {x: -43, y: -65}
+        - {x: 56, y: -65}
+        - {x: 60, y: -57}
+        - {x: 60, y: 65}
+      - - {x: -61, y: -64}
+        - {x: -61, y: 65}
+        - {x: -64, y: 65}
+        - {x: -64, y: -65}
+    - name: clickminer_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1918
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 65}
+        - {x: -63, y: -63}
+        - {x: -62, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1918
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1918
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1918
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1918
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: -52, y: -65}
+        - {x: -51, y: -63}
+        - {x: -51, y: 65}
+    - name: clickminer_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1918
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61, y: 65}
+        - {x: 61, y: -63}
+        - {x: 63, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1788
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1788
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 47}
+        - {x: -40, y: 24}
+        - {x: -44, y: 13}
+        - {x: -44, y: -65}
+        - {x: -12, y: -65}
+        - {x: 64, y: -22}
+        - {x: 64, y: 47}
+      - - {x: 44, y: -21}
+        - {x: 24, y: -36}
+        - {x: 24, y: -65}
+        - {x: 50, y: -65}
+        - {x: 64, y: -48}
+        - {x: 64, y: -21}
+      - - {x: -61, y: -64}
+        - {x: -61, y: 65}
+        - {x: -64, y: 65}
+        - {x: -64, y: -65}
+    - name: clickminer_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1788
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -64}
+        - {x: -63, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1788
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: -58, y: -65}
+        - {x: -57, y: -63}
+        - {x: -57, y: 65}
+      - - {x: 21, y: 15}
+        - {x: -20, y: 15}
+        - {x: -32, y: 9}
+        - {x: -32, y: -33}
+        - {x: -14, y: -65}
+        - {x: 19, y: -65}
+        - {x: 46, y: -25}
+        - {x: 46, y: -3}
+        - {x: 42, y: 8}
+    - name: clickminer_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1788
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: 65}
+        - {x: -59, y: -63}
+        - {x: -57, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1788
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1788
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: -52, y: -65}
+        - {x: -51, y: -63}
+        - {x: -51, y: 65}
+    - name: clickminer_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1788
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61, y: 65}
+        - {x: 61, y: -63}
+        - {x: 63, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1658
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1658
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 58}
+        - {x: 47, y: 65}
+    - name: clickminer_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1658
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1658
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: -58, y: -65}
+        - {x: -57, y: -63}
+        - {x: -57, y: 65}
+      - - {x: -27, y: -1}
+        - {x: -34, y: -18}
+        - {x: -34, y: -44}
+        - {x: -11, y: -65}
+        - {x: 25, y: -65}
+        - {x: 48, y: -41}
+        - {x: 48, y: -18}
+        - {x: 30, y: -1}
+    - name: clickminer_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1658
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: -13}
+        - {x: -40, y: -15}
+        - {x: -40, y: -25}
+        - {x: -33, y: -65}
+        - {x: -16, y: -65}
+        - {x: -16, y: -32}
+        - {x: -25, y: -13}
+      - - {x: 21, y: -2}
+        - {x: 15, y: -7}
+        - {x: 11, y: -19}
+        - {x: -1, y: 15}
+        - {x: -8, y: 29}
+        - {x: -25, y: 29}
+        - {x: -25, y: 18}
+        - {x: -14, y: -65}
+        - {x: 25, y: -65}
+        - {x: 34, y: -24}
+        - {x: 34, y: -7}
+        - {x: 32, y: 0}
+      - - {x: 35, y: -54}
+        - {x: 35, y: -65}
+        - {x: 58, y: -65}
+        - {x: 58, y: -33}
+        - {x: 41, y: -33}
+        - {x: 39, y: -34}
+    - name: clickminer_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1658
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: 65}
+        - {x: -57, y: -63}
+        - {x: -56, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1658
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: -52, y: -65}
+        - {x: -51, y: -63}
+        - {x: -51, y: 65}
+    - name: clickminer_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1658
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61, y: 65}
+        - {x: 61, y: -63}
+        - {x: 63, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1528
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 63}
+        - {x: -54, y: 63}
+        - {x: -54, y: -52}
+        - {x: -52, y: -65}
+        - {x: -34, y: -65}
+        - {x: -34, y: -64}
+        - {x: -23, y: 16}
+        - {x: -23, y: 56}
+      - - {x: -26, y: 23}
+        - {x: -26, y: -65}
+        - {x: 49, y: -65}
+        - {x: 57, y: -16}
+        - {x: 57, y: 63}
+        - {x: 22, y: 63}
+        - {x: -2, y: 53}
+    - name: clickminer_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1528
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1528
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1528
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 34, y: -65}
+        - {x: 48, y: -45}
+        - {x: 48, y: 11}
+        - {x: 0, y: 65}
+      - - {x: 36, y: -64}
+        - {x: 36, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: -62}
+        - {x: 38, y: -62}
+    - name: clickminer_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1528
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: -65}
+        - {x: -57, y: -62}
+        - {x: -64, y: -62}
+        - {x: -64, y: -65}
+      - - {x: -18, y: 29}
+        - {x: -18, y: -2}
+        - {x: -10, y: -65}
+        - {x: 25, y: -65}
+        - {x: 36, y: -14}
+        - {x: 36, y: 26}
+        - {x: 29, y: 29}
+    - name: clickminer_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1528
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: 65}
+        - {x: -57, y: -63}
+        - {x: -56, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1528
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: -52, y: -65}
+        - {x: -51, y: -63}
+        - {x: -51, y: 65}
+    - name: clickminer_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1398
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 27}
+        - {x: -52, y: 25}
+        - {x: -52, y: -11}
+        - {x: -44, y: -65}
+        - {x: -34, y: -65}
+        - {x: -27, y: -21}
+        - {x: -27, y: 25}
+        - {x: -28, y: 27}
+      - - {x: -24, y: -9}
+        - {x: -24, y: -52}
+        - {x: -21, y: -65}
+        - {x: 0, y: -65}
+        - {x: 1, y: -56}
+        - {x: 1, y: -9}
+      - - {x: 2, y: 9}
+        - {x: 2, y: -65}
+        - {x: 24, y: -65}
+        - {x: 27, y: -40}
+        - {x: 27, y: 9}
+      - - {x: 50, y: 27}
+        - {x: 28, y: 27}
+        - {x: 28, y: -65}
+        - {x: 46, y: -65}
+        - {x: 46, y: -64}
+        - {x: 53, y: -19}
+        - {x: 53, y: 24}
+    - name: clickminer_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1398
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1398
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1398
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1398
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: -10}
+        - {x: -64, y: -10}
+        - {x: -64, y: -65}
+        - {x: -56, y: -65}
+        - {x: -55, y: -63}
+        - {x: -55, y: -14}
+      - - {x: 28, y: 9}
+        - {x: 14, y: 9}
+        - {x: -31, y: -10}
+        - {x: -30, y: -17}
+        - {x: -34, y: -35}
+        - {x: -34, y: -65}
+        - {x: 47, y: -65}
+        - {x: 52, y: -53}
+        - {x: 52, y: -28}
+        - {x: 33, y: 7}
+      - - {x: -60, y: 33}
+        - {x: -64, y: 32}
+        - {x: -64, y: -7}
+        - {x: -60, y: -7}
+        - {x: -55, y: -5}
+        - {x: -55, y: 31}
+        - {x: -56, y: 33}
+      - - {x: -64, y: 65}
+        - {x: -64, y: 43}
+        - {x: -60, y: 43}
+        - {x: -55, y: 45}
+        - {x: -55, y: 65}
+    - name: clickminer_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1398
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: 65}
+        - {x: -57, y: -63}
+        - {x: -56, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1398
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: -52, y: -65}
+        - {x: -51, y: -63}
+        - {x: -51, y: 65}
+    - name: clickminer_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1268
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: -7}
+        - {x: -48, y: -65}
+        - {x: -32, y: -65}
+        - {x: -30, y: -42}
+        - {x: -30, y: -7}
+      - - {x: -20, y: -64}
+        - {x: -19, y: -65}
+        - {x: -2, y: -65}
+        - {x: -2, y: -27}
+        - {x: -20, y: -27}
+      - - {x: 6, y: -5}
+        - {x: 6, y: -65}
+        - {x: 22, y: -65}
+        - {x: 24, y: -40}
+        - {x: 24, y: -5}
+      - - {x: 32, y: -9}
+        - {x: 32, y: -65}
+        - {x: 48, y: -65}
+        - {x: 50, y: -46}
+        - {x: 50, y: -9}
+    - name: clickminer_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1268
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1268
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1268
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1268
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: -39}
+        - {x: 17, y: -6}
+        - {x: 15, y: -3}
+        - {x: -54, y: -3}
+        - {x: -64, y: -8}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: -62}
+        - {x: 38, y: -38}
+      - - {x: -60, y: 33}
+        - {x: -64, y: 32}
+        - {x: -64, y: -7}
+        - {x: -60, y: -7}
+        - {x: -55, y: -5}
+        - {x: -55, y: 31}
+        - {x: -56, y: 33}
+      - - {x: -64, y: 65}
+        - {x: -64, y: 43}
+        - {x: -60, y: 43}
+        - {x: -55, y: 45}
+        - {x: -55, y: 65}
+    - name: clickminer_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1268
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: 65}
+        - {x: -57, y: -62}
+        - {x: -64, y: -62}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1268
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: -52, y: -65}
+        - {x: -51, y: -63}
+        - {x: -51, y: 65}
+    - name: clickminer_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1138
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: -39}
+        - {x: 22, y: -34}
+        - {x: 11, y: -31}
+        - {x: -22, y: -27}
+        - {x: -45, y: -27}
+        - {x: -64, y: -56}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: -61}
+        - {x: 48, y: -42}
+    - name: clickminer_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1138
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1138
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1138
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1138
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1138
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1138
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: -52, y: -65}
+        - {x: -51, y: -63}
+        - {x: -51, y: 65}
+    - name: clickminer_spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1008
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1008
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1008
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1008
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: -56, y: -65}
+        - {x: -55, y: -63}
+        - {x: -55, y: 65}
+      - - {x: -1, y: 9}
+        - {x: -34, y: -7}
+        - {x: -34, y: -56}
+        - {x: -22, y: -65}
+        - {x: 41, y: -65}
+        - {x: 52, y: -54}
+        - {x: 52, y: -10}
+        - {x: 42, y: 9}
+    - name: clickminer_spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1008
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: 65}
+        - {x: -57, y: -63}
+        - {x: -56, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1008
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: -52, y: -65}
+        - {x: -51, y: -63}
+        - {x: -51, y: 65}
+    - name: clickminer_spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1008
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61, y: 65}
+        - {x: 61, y: -63}
+        - {x: 63, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 878
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 878
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 878
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: -60, y: -65}
+        - {x: -59, y: -63}
+        - {x: -59, y: 65}
+      - - {x: -44, y: -52}
+        - {x: -44, y: -65}
+        - {x: 52, y: -65}
+        - {x: 52, y: -55}
+        - {x: 42, y: -32}
+        - {x: 17, y: -14}
+        - {x: -5, y: -14}
+        - {x: -38, y: -26}
+    - name: clickminer_spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 878
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: 65}
+        - {x: -61, y: -63}
+        - {x: -60, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 878
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: -38}
+        - {x: 53, y: 47}
+        - {x: 29, y: 65}
+    - name: clickminer_spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 878
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: 65}
+        - {x: -57, y: -62}
+        - {x: -64, y: -62}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 878
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: -52, y: -65}
+        - {x: -51, y: -63}
+        - {x: -51, y: 65}
+    - name: clickminer_spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 878
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61, y: 65}
+        - {x: 61, y: -63}
+        - {x: 63, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 748
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 748
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 748
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: -7}
+        - {x: -33, y: -30}
+        - {x: -36, y: -38}
+        - {x: -59, y: 65}
+        - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: -61}
+        - {x: 49, y: -34}
+    - name: clickminer_spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 748
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: 65}
+        - {x: -61, y: -62}
+        - {x: -64, y: -62}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 748
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+      - - {x: -40, y: -39}
+        - {x: -33, y: 45}
+        - {x: 52, y: 42}
+        - {x: 47, y: -42}
+      - - {x: 6, y: -45}
+        - {x: 16, y: -45}
+        - {x: 16, y: -35}
+        - {x: 6, y: -35}
+      - - {x: 18, y: -23}
+        - {x: 17, y: -29}
+        - {x: 17, y: -38}
+        - {x: 19, y: -39}
+        - {x: 32, y: -39}
+        - {x: 34, y: -34}
+        - {x: 34, y: -26}
+        - {x: 33, y: -23}
+      - - {x: 36, y: -38}
+        - {x: 37, y: -39}
+        - {x: 49, y: -39}
+        - {x: 54, y: -38}
+        - {x: 54, y: -26}
+        - {x: 52, y: -21}
+        - {x: 36, y: -21}
+      - - {x: 40, y: -5}
+        - {x: 38, y: -7}
+        - {x: 38, y: -16}
+        - {x: 40, y: -18}
+        - {x: 49, y: -18}
+        - {x: 51, y: -16}
+        - {x: 51, y: -8}
+        - {x: 50, y: -5}
+      - - {x: -38, y: 6}
+        - {x: -13, y: 6}
+        - {x: -3, y: 10}
+        - {x: -3, y: 31}
+        - {x: -6, y: 37}
+        - {x: -25, y: 37}
+        - {x: -38, y: 26}
+      - - {x: -36, y: 38}
+        - {x: -36, y: 28}
+        - {x: -28, y: 28}
+        - {x: -26, y: 30}
+        - {x: -26, y: 36}
+        - {x: -28, y: 38}
+      - - {x: -1, y: 48}
+        - {x: -1, y: 36}
+        - {x: 0, y: 35}
+        - {x: 2, y: 34}
+        - {x: 12, y: 34}
+        - {x: 13, y: 36}
+        - {x: 13, y: 48}
+    - name: clickminer_spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 748
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 748
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: -53, y: -65}
+        - {x: -51, y: -63}
+        - {x: -51, y: 65}
+    - name: clickminer_spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 748
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61, y: 65}
+        - {x: 61, y: -63}
+        - {x: 63, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 618
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 618
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 618
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 618
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 618
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+      - - {x: 14, y: -42}
+        - {x: 14, y: -51}
+        - {x: 22, y: -51}
+        - {x: 23, y: -49}
+        - {x: 23, y: -42}
+      - - {x: 41, y: -42}
+        - {x: 42, y: -47}
+        - {x: 43, y: -48}
+        - {x: 51, y: -48}
+        - {x: 60, y: -46}
+        - {x: 60, y: -36}
+        - {x: 59, y: -30}
+        - {x: 58, y: -29}
+        - {x: 49, y: -29}
+        - {x: 41, y: -31}
+      - - {x: 26, y: -30}
+        - {x: 25, y: -31}
+        - {x: 25, y: -40}
+        - {x: 28, y: -42}
+        - {x: 37, y: -42}
+        - {x: 38, y: -38}
+        - {x: 38, y: -30}
+      - - {x: 53, y: -12}
+        - {x: 45, y: -12}
+        - {x: 45, y: -25}
+        - {x: 59, y: -25}
+        - {x: 59, y: -14}
+        - {x: 58, y: -13}
+      - - {x: -42, y: 12}
+        - {x: -33, y: 12}
+        - {x: -30, y: 13}
+        - {x: -30, y: 23}
+        - {x: -31, y: 24}
+        - {x: -38, y: 24}
+        - {x: -42, y: 23}
+      - - {x: -29, y: 44}
+        - {x: -34, y: 41}
+        - {x: -34, y: 24}
+        - {x: -32, y: 22}
+        - {x: -12, y: 22}
+        - {x: -12, y: 44}
+      - - {x: -45, y: 45}
+        - {x: -45, y: 34}
+        - {x: -34, y: 34}
+        - {x: -34, y: 45}
+      - - {x: -6, y: 55}
+        - {x: -9, y: 54}
+        - {x: -9, y: 43}
+        - {x: -7, y: 41}
+        - {x: 3, y: 41}
+        - {x: 5, y: 44}
+        - {x: 5, y: 54}
+        - {x: 3, y: 55}
+    - name: clickminer_spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 618
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: -55, y: -65}
+        - {x: -53, y: -63}
+        - {x: -53, y: 65}
+    - name: clickminer_spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 618
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61, y: 65}
+        - {x: 61, y: -63}
+        - {x: 63, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 488
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 488
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 488
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 488
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 488
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 65}
+        - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 37}
+        - {x: 48, y: 37}
+    - name: clickminer_spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 488
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 37}
+        - {x: -64, y: -65}
+        - {x: -55, y: -65}
+        - {x: -53, y: -63}
+        - {x: -53, y: 35}
+        - {x: -55, y: 37}
+    - name: clickminer_spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 488
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61, y: 65}
+        - {x: 61, y: -63}
+        - {x: 63, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 358
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 65}
+        - {x: -48, y: -64}
+        - {x: -48, y: -65}
+        - {x: 45, y: -65}
+        - {x: 46, y: -64}
+        - {x: 46, y: 65}
+    - name: clickminer_spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 358
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 358
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 358
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 358
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 65}
+        - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 37}
+        - {x: 48, y: 37}
+    - name: clickminer_spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 358
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 37}
+        - {x: -64, y: -65}
+        - {x: -54, y: -65}
+        - {x: -53, y: -63}
+        - {x: -53, y: 35}
+        - {x: -55, y: 37}
+    - name: clickminer_spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: -6}
+        - {x: 46, y: -2}
+        - {x: 45, y: 65}
+        - {x: -48, y: 65}
+        - {x: -58, y: -38}
+        - {x: -58, y: -65}
+        - {x: 58, y: -65}
+        - {x: 58, y: -53}
+    - name: clickminer_spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 228
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 228
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 228
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 228
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 228
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: -54, y: -65}
+        - {x: -53, y: -63}
+        - {x: -53, y: 65}
+    - name: clickminer_spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 65}
+        - {x: -46, y: -64}
+        - {x: -45, y: -65}
+        - {x: -23, y: -65}
+        - {x: -22, y: -64}
+        - {x: -22, y: 65}
+      - - {x: 22, y: 65}
+        - {x: 22, y: -64}
+        - {x: 23, y: -65}
+        - {x: 45, y: -65}
+        - {x: 46, y: -64}
+        - {x: 46, y: 65}
+    - name: clickminer_spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 98
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -64}
+        - {x: -63, y: -65}
+        - {x: 64, y: -65}
+        - {x: 64, y: 65}
+    - name: clickminer_spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 98
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: 65}
+        - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+    - name: clickminer_spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 98
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: 65}
+        - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+    - name: clickminer_spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 98
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: 65}
+        - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: 64, y: -65}
+    - name: clickminer_spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 98
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65}
+        - {x: -64, y: -65}
+        - {x: -55, y: -65}
+        - {x: -53, y: -63}
+        - {x: -53, y: 65}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

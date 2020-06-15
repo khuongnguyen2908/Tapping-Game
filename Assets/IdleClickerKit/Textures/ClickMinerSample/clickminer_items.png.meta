@@ -1,0 +1,1264 @@
+fileFormatVersion: 2
+guid: 185cf3d8883384686bc360152e1fb330
+timeCreated: 1457557751
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: clickminer_items_0
+    21300002: clickminer_items_1
+    21300004: clickminer_items_2
+    21300006: clickminer_items_3
+    21300008: clickminer_items_4
+    21300010: clickminer_items_5
+    21300012: clickminer_items_6
+    21300014: clickminer_items_7
+    21300016: clickminer_items_8
+    21300018: clickminer_items_9
+    21300020: clickminer_items_10
+    21300022: clickminer_items_11
+    21300024: clickminer_items_12
+    21300026: clickminer_items_13
+    21300028: clickminer_items_14
+    21300030: clickminer_items_15
+    21300032: clickminer_items_16
+    21300034: clickminer_items_17
+    21300036: clickminer_items_18
+    21300038: clickminer_items_19
+    21300040: clickminer_items_20
+    21300042: clickminer_items_21
+    21300044: clickminer_items_22
+    21300046: clickminer_items_23
+    21300048: clickminer_items_24
+    21300050: clickminer_items_25
+    21300052: clickminer_items_26
+    21300054: clickminer_items_27
+    21300056: clickminer_items_28
+    21300058: clickminer_items_29
+    21300060: clickminer_items_30
+    21300062: clickminer_items_31
+    21300064: clickminer_items_32
+    21300066: clickminer_items_33
+    21300068: clickminer_items_34
+    21300070: clickminer_items_35
+    21300072: clickminer_items_36
+    21300074: clickminer_items_37
+    21300076: clickminer_items_38
+    21300078: clickminer_items_39
+    21300080: clickminer_items_40
+    21300082: clickminer_items_41
+    21300084: clickminer_items_42
+    21300086: clickminer_items_43
+    21300088: clickminer_items_44
+    21300090: clickminer_items_45
+    21300092: clickminer_items_46
+    21300094: clickminer_items_47
+    21300096: clickminer_items_48
+    21300098: clickminer_items_49
+    21300100: clickminer_items_50
+    21300102: clickminer_items_51
+    21300104: clickminer_items_52
+    21300106: clickminer_items_53
+    21300108: clickminer_items_54
+    21300110: clickminer_items_55
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: clickminer_items_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1906
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 64}
+        - {x: -53, y: 11}
+        - {x: -53, y: -42}
+        - {x: -34, y: -42}
+        - {x: 32, y: -5}
+        - {x: 50, y: 8}
+        - {x: 50, y: 64}
+    - name: clickminer_items_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1906
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -19}
+        - {x: 24, y: -19}
+        - {x: 36, y: -3}
+        - {x: 36, y: 19}
+        - {x: 15, y: 43}
+        - {x: -5, y: 43}
+        - {x: -27, y: 32}
+        - {x: -27, y: -1}
+    - name: clickminer_items_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1906
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 64}
+        - {x: -50, y: -11}
+        - {x: -50, y: -40}
+        - {x: -35, y: -40}
+        - {x: -28, y: -36}
+        - {x: 12, y: 37}
+        - {x: 9, y: 21}
+        - {x: -8, y: 0}
+        - {x: -5, y: -40}
+        - {x: 56, y: -40}
+        - {x: 56, y: 17}
+        - {x: 39, y: 64}
+    - name: clickminer_items_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1906
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55, y: -64}
+        - {x: 54, y: -61}
+        - {x: 50, y: -61}
+        - {x: 49, y: -64}
+      - - {x: 4, y: 63}
+        - {x: -11, y: 43}
+        - {x: -50, y: -17}
+        - {x: -50, y: -27}
+        - {x: -46, y: -34}
+        - {x: 6, y: -34}
+        - {x: 61, y: 5}
+        - {x: 61, y: 51}
+        - {x: 40, y: 63}
+    - name: clickminer_items_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1778
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 63}
+        - {x: -49, y: -12}
+        - {x: -49, y: -44}
+        - {x: -30, y: -44}
+        - {x: 36, y: -7}
+        - {x: 54, y: 7}
+        - {x: 54, y: 63}
+    - name: clickminer_items_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1778
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 44}
+        - {x: -29, y: 24}
+        - {x: -29, y: 13}
+        - {x: -17, y: -17}
+        - {x: 26, y: -17}
+        - {x: 33, y: 4}
+        - {x: 33, y: 32}
+        - {x: 6, y: 44}
+    - name: clickminer_items_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1778
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: -21}
+        - {x: -48, y: -24}
+        - {x: -42, y: -32}
+        - {x: -26, y: -38}
+        - {x: 14, y: 35}
+        - {x: 11, y: 13}
+        - {x: -3, y: 0}
+        - {x: -5, y: -6}
+        - {x: 1, y: -40}
+        - {x: 7, y: -42}
+        - {x: 58, y: -42}
+        - {x: 58, y: 19}
+        - {x: 44, y: 64}
+        - {x: -4, y: 64}
+        - {x: -16, y: 40}
+    - name: clickminer_items_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1778
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: 64}
+        - {x: 19, y: 52}
+        - {x: -43, y: -22}
+        - {x: -43, y: -26}
+        - {x: -29, y: -41}
+        - {x: -12, y: -41}
+        - {x: 52, y: 30}
+        - {x: 55, y: 57}
+        - {x: 55, y: 64}
+    - name: clickminer_items_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1650
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 61}
+        - {x: -53, y: -9}
+        - {x: -53, y: -40}
+        - {x: -47, y: -46}
+        - {x: -42, y: -46}
+        - {x: -35, y: -42}
+        - {x: 32, y: -9}
+        - {x: 50, y: 5}
+        - {x: 50, y: 61}
+    - name: clickminer_items_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1650
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 45}
+        - {x: -31, y: 26}
+        - {x: -31, y: 15}
+        - {x: -21, y: -12}
+        - {x: -3, y: -19}
+        - {x: 18, y: -19}
+        - {x: 35, y: -15}
+        - {x: 35, y: 36}
+        - {x: -2, y: 45}
+    - name: clickminer_items_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1650
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 63}
+        - {x: -2, y: 63}
+        - {x: -48, y: -17}
+        - {x: -48, y: -31}
+        - {x: -42, y: -34}
+        - {x: -26, y: -40}
+        - {x: 14, y: 33}
+        - {x: 11, y: 11}
+        - {x: -3, y: -2}
+        - {x: -5, y: -8}
+        - {x: 1, y: -42}
+        - {x: 7, y: -44}
+        - {x: 43, y: -44}
+        - {x: 58, y: -40}
+        - {x: 58, y: 13}
+        - {x: 22, y: 60}
+    - name: clickminer_items_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1650
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 51}
+        - {x: -30, y: 32}
+        - {x: -30, y: -6}
+        - {x: -16, y: -27}
+        - {x: 30, y: -27}
+        - {x: 42, y: -8}
+        - {x: 42, y: 36}
+        - {x: 19, y: 51}
+    - name: clickminer_items_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1522
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 59}
+        - {x: -12, y: 54}
+        - {x: -57, y: 33}
+        - {x: -57, y: -48}
+        - {x: -3, y: -48}
+        - {x: 24, y: -20}
+        - {x: 46, y: 6}
+        - {x: 46, y: 58}
+        - {x: 45, y: 59}
+    - name: clickminer_items_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1522
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46, y: 50}
+        - {x: -42, y: 50}
+        - {x: -42, y: 24}
+        - {x: -38, y: -22}
+        - {x: -32, y: -36}
+        - {x: 48, y: -36}
+        - {x: 48, y: 48}
+    - name: clickminer_items_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1522
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 61}
+        - {x: -2, y: 61}
+        - {x: -48, y: -19}
+        - {x: -48, y: -33}
+        - {x: -42, y: -36}
+        - {x: -26, y: -42}
+        - {x: 14, y: 31}
+        - {x: 11, y: 9}
+        - {x: -3, y: -4}
+        - {x: -5, y: -10}
+        - {x: 1, y: -44}
+        - {x: 7, y: -46}
+        - {x: 43, y: -46}
+        - {x: 58, y: -42}
+        - {x: 58, y: 11}
+        - {x: 22, y: 58}
+    - name: clickminer_items_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1522
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: -46}
+        - {x: 3, y: -46}
+        - {x: 59, y: 3}
+        - {x: 59, y: 59}
+        - {x: 54, y: 64}
+        - {x: -12, y: 64}
+        - {x: -50, y: 27}
+        - {x: -50, y: -40}
+    - name: clickminer_items_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1394
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 33}
+        - {x: 25, y: 41}
+        - {x: -10, y: 41}
+        - {x: -33, y: 12}
+        - {x: -33, y: -25}
+        - {x: -29, y: -32}
+        - {x: -1, y: -32}
+        - {x: 7, y: -25}
+        - {x: 34, y: 13}
+        - {x: 34, y: 23}
+    - name: clickminer_items_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1394
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 55}
+        - {x: 10, y: 58}
+        - {x: -8, y: 58}
+        - {x: -24, y: 40}
+        - {x: -50, y: -34}
+        - {x: -50, y: -42}
+        - {x: -49, y: -46}
+        - {x: -44, y: -48}
+        - {x: -40, y: -48}
+        - {x: -36, y: -46}
+        - {x: 51, y: -24}
+        - {x: 55, y: -16}
+        - {x: 55, y: -5}
+    - name: clickminer_items_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1394
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: -28}
+        - {x: 47, y: -19}
+        - {x: 42, y: -5}
+        - {x: 46, y: 23}
+        - {x: 43, y: 55}
+        - {x: 31, y: 57}
+        - {x: 16, y: 57}
+        - {x: -51, y: -25}
+        - {x: -51, y: -38}
+        - {x: -46, y: -48}
+        - {x: -40, y: -50}
+        - {x: -34, y: -50}
+        - {x: -17, y: -28}
+        - {x: 24, y: -45}
+        - {x: 44, y: -39}
+    - name: clickminer_items_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1394
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 62}
+        - {x: -47, y: 43}
+        - {x: -47, y: -51}
+        - {x: -17, y: -51}
+        - {x: 35, y: -25}
+        - {x: 57, y: 34}
+        - {x: 57, y: 62}
+    - name: clickminer_items_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1266
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: -44}
+        - {x: -42, y: -51}
+        - {x: -16, y: -51}
+        - {x: 58, y: -8}
+        - {x: 58, y: 15}
+        - {x: 26, y: 56}
+        - {x: -36, y: 56}
+        - {x: -48, y: -13}
+    - name: clickminer_items_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1266
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 56}
+        - {x: -52, y: -30}
+        - {x: -52, y: -45}
+        - {x: -45, y: -50}
+        - {x: -18, y: -50}
+        - {x: 53, y: -23}
+        - {x: 53, y: 14}
+        - {x: 16, y: 56}
+    - name: clickminer_items_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1266
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 46}
+        - {x: -39, y: 22}
+        - {x: -44, y: 2}
+        - {x: -44, y: -33}
+        - {x: 46, y: -33}
+        - {x: 51, y: -25}
+        - {x: 51, y: 30}
+        - {x: 40, y: 46}
+    - name: clickminer_items_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1266
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: -53}
+        - {x: 22, y: -53}
+        - {x: 57, y: -6}
+        - {x: 57, y: 60}
+        - {x: 4, y: 60}
+        - {x: -47, y: 41}
+    - name: clickminer_items_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1138
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 43}
+        - {x: -60, y: -28}
+        - {x: -60, y: -44}
+        - {x: -54, y: -53}
+        - {x: -28, y: -53}
+        - {x: 46, y: -10}
+        - {x: 46, y: 13}
+        - {x: 14, y: 54}
+        - {x: -37, y: 54}
+        - {x: -38, y: 52}
+    - name: clickminer_items_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1138
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 54}
+        - {x: -52, y: -30}
+        - {x: -52, y: -52}
+        - {x: 53, y: -52}
+        - {x: 53, y: 5}
+        - {x: 14, y: 54}
+    - name: clickminer_items_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1138
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 44}
+        - {x: -30, y: 16}
+        - {x: -34, y: 10}
+        - {x: -42, y: -6}
+        - {x: -42, y: -35}
+        - {x: 37, y: -35}
+        - {x: 53, y: -28}
+        - {x: 53, y: 38}
+        - {x: 9, y: 44}
+    - name: clickminer_items_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1138
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -19}
+        - {x: 48, y: 22}
+        - {x: 53, y: 46}
+        - {x: 53, y: 58}
+        - {x: -2, y: 58}
+        - {x: -51, y: 39}
+        - {x: -51, y: -53}
+        - {x: -43, y: -55}
+        - {x: -36, y: -55}
+        - {x: -3, y: -43}
+        - {x: 13, y: -33}
+        - {x: 13, y: -28}
+    - name: clickminer_items_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: 24}
+        - {x: -56, y: -55}
+        - {x: 26, y: -55}
+        - {x: 50, y: -29}
+        - {x: 50, y: 14}
+        - {x: 29, y: 36}
+        - {x: 14, y: 52}
+        - {x: -38, y: 52}
+    - name: clickminer_items_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 51}
+        - {x: 16, y: 52}
+        - {x: -8, y: 52}
+        - {x: -24, y: 34}
+        - {x: -50, y: -45}
+        - {x: -50, y: -49}
+        - {x: -43, y: -54}
+        - {x: -40, y: -54}
+        - {x: -37, y: -52}
+        - {x: 51, y: -29}
+        - {x: 55, y: -24}
+        - {x: 55, y: -4}
+    - name: clickminer_items_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46, y: 30}
+        - {x: -27, y: 30}
+        - {x: -40, y: 21}
+        - {x: -40, y: -17}
+        - {x: -23, y: -27}
+        - {x: 42, y: -27}
+        - {x: 51, y: -8}
+        - {x: 51, y: 29}
+    - name: clickminer_items_31
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 56}
+        - {x: -45, y: 37}
+        - {x: -45, y: -57}
+        - {x: -21, y: -57}
+        - {x: 21, y: -36}
+        - {x: 54, y: 20}
+        - {x: 59, y: 45}
+        - {x: 59, y: 56}
+    - name: clickminer_items_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 882
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 50}
+        - {x: -46, y: 50}
+        - {x: -42, y: 40}
+        - {x: -41, y: 38}
+        - {x: -64, y: -24}
+        - {x: -64, y: -45}
+        - {x: -57, y: -57}
+        - {x: -37, y: -57}
+        - {x: 35, y: -13}
+        - {x: 42, y: -7}
+        - {x: 42, y: 2}
+        - {x: 23, y: 36}
+    - name: clickminer_items_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 882
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 49}
+        - {x: 16, y: 50}
+        - {x: -8, y: 50}
+        - {x: -24, y: 32}
+        - {x: -50, y: -47}
+        - {x: -50, y: -51}
+        - {x: -43, y: -56}
+        - {x: -40, y: -56}
+        - {x: -37, y: -54}
+        - {x: 51, y: -31}
+        - {x: 55, y: -26}
+        - {x: 55, y: -6}
+    - name: clickminer_items_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 882
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: 43}
+        - {x: -51, y: -1}
+        - {x: -36, y: -52}
+        - {x: 52, y: -52}
+        - {x: 64, y: -10}
+        - {x: 64, y: 43}
+    - name: clickminer_items_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 882
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 54}
+        - {x: -43, y: 7}
+        - {x: -43, y: -53}
+        - {x: -38, y: -59}
+        - {x: -16, y: -59}
+        - {x: 30, y: -41}
+        - {x: 61, y: 13}
+        - {x: 61, y: 54}
+    - name: clickminer_items_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 754
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: -31}
+        - {x: -52, y: -53}
+        - {x: -47, y: -59}
+        - {x: -17, y: -59}
+        - {x: 54, y: -23}
+        - {x: 54, y: 6}
+        - {x: 21, y: 48}
+        - {x: -34, y: 48}
+        - {x: -29, y: 35}
+    - name: clickminer_items_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 754
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 46}
+        - {x: -42, y: 21}
+        - {x: -42, y: -53}
+        - {x: -40, y: -55}
+        - {x: -16, y: -55}
+        - {x: 36, y: -6}
+        - {x: 48, y: 13}
+        - {x: 48, y: 28}
+        - {x: 22, y: 46}
+    - name: clickminer_items_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 754
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 49}
+        - {x: -40, y: -37}
+        - {x: -40, y: -49}
+        - {x: -35, y: -55}
+        - {x: 2, y: -55}
+        - {x: 30, y: -46}
+        - {x: 48, y: -24}
+        - {x: 48, y: 42}
+        - {x: 46, y: 49}
+    - name: clickminer_items_39
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 754
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 24}
+        - {x: -38, y: 22}
+        - {x: -38, y: -15}
+        - {x: -16, y: -33}
+        - {x: 27, y: -33}
+        - {x: 53, y: -13}
+        - {x: 53, y: 18}
+        - {x: 48, y: 24}
+    - name: clickminer_items_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 626
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 0}
+        - {x: -35, y: -6}
+        - {x: -33, y: -14}
+        - {x: 0, y: -31}
+        - {x: 28, y: -31}
+        - {x: 39, y: -21}
+        - {x: 39, y: 5}
+        - {x: 37, y: 8}
+        - {x: 26, y: 17}
+        - {x: 13, y: 17}
+        - {x: -29, y: 6}
+    - name: clickminer_items_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 626
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 44}
+        - {x: -37, y: 30}
+        - {x: -40, y: -24}
+        - {x: -40, y: -48}
+        - {x: -26, y: -57}
+        - {x: -2, y: -57}
+        - {x: 50, y: 1}
+        - {x: 50, y: 38}
+        - {x: 43, y: 44}
+    - name: clickminer_items_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 626
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 23}
+        - {x: -17, y: 10}
+        - {x: -52, y: 2}
+        - {x: -52, y: -9}
+        - {x: -46, y: -31}
+        - {x: -42, y: -39}
+        - {x: 18, y: -39}
+        - {x: 45, y: -38}
+        - {x: 62, y: -5}
+        - {x: 62, y: 19}
+        - {x: 61, y: 23}
+    - name: clickminer_items_43
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 626
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 44}
+        - {x: -36, y: -4}
+        - {x: -36, y: -57}
+        - {x: -10, y: -57}
+        - {x: 41, y: -7}
+        - {x: 54, y: 12}
+        - {x: 54, y: 25}
+        - {x: 28, y: 44}
+    - name: clickminer_items_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 498
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 15}
+        - {x: -33, y: -25}
+        - {x: -30, y: -33}
+        - {x: -6, y: -33}
+        - {x: 41, y: -7}
+        - {x: 41, y: 10}
+        - {x: 40, y: 15}
+    - name: clickminer_items_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 498
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 42}
+        - {x: -42, y: -3}
+        - {x: -42, y: -58}
+        - {x: -41, y: -59}
+        - {x: -5, y: -59}
+        - {x: 43, y: -16}
+        - {x: 48, y: 0}
+        - {x: 48, y: 23}
+        - {x: 22, y: 42}
+    - name: clickminer_items_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 498
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 41}
+        - {x: -15, y: 41}
+        - {x: -52, y: -31}
+        - {x: -52, y: -56}
+        - {x: -42, y: -56}
+        - {x: -33, y: -51}
+        - {x: 50, y: -28}
+        - {x: 59, y: -12}
+        - {x: 59, y: 14}
+    - name: clickminer_items_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 370
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 15}
+        - {x: -34, y: 8}
+        - {x: -34, y: -32}
+        - {x: -30, y: -40}
+        - {x: 13, y: -40}
+        - {x: 29, y: -33}
+        - {x: 29, y: 9}
+        - {x: 26, y: 15}
+    - name: clickminer_items_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 370
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 41}
+        - {x: -51, y: -33}
+        - {x: -51, y: -64}
+        - {x: -26, y: -64}
+        - {x: 52, y: -25}
+        - {x: 52, y: 37}
+        - {x: 49, y: 41}
+    - name: clickminer_items_49
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 370
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57, y: 15}
+        - {x: 31, y: 39}
+        - {x: -2, y: 39}
+        - {x: -25, y: 24}
+        - {x: -54, y: -44}
+        - {x: -54, y: -52}
+        - {x: -51, y: -58}
+        - {x: -44, y: -58}
+        - {x: -35, y: -53}
+        - {x: 35, y: -30}
+        - {x: 53, y: -20}
+        - {x: 57, y: -3}
+    - name: clickminer_items_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 25}
+        - {x: 12, y: 25}
+        - {x: -28, y: 18}
+        - {x: -31, y: 9}
+        - {x: -31, y: -18}
+        - {x: -22, y: -35}
+        - {x: 23, y: -35}
+        - {x: 27, y: -30}
+        - {x: 27, y: 0}
+        - {x: 25, y: 20}
+    - name: clickminer_items_51
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 242
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 38}
+        - {x: -27, y: 38}
+        - {x: -42, y: -7}
+        - {x: -42, y: -54}
+        - {x: -28, y: -63}
+        - {x: -22, y: -63}
+        - {x: -20, y: -62}
+        - {x: 37, y: -15}
+        - {x: 48, y: 4}
+        - {x: 48, y: 20}
+    - name: clickminer_items_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 242
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 37}
+        - {x: -2, y: 37}
+        - {x: -20, y: 23}
+        - {x: -50, y: -46}
+        - {x: -50, y: -57}
+        - {x: -48, y: -60}
+        - {x: -40, y: -60}
+        - {x: -31, y: -55}
+        - {x: 42, y: -36}
+        - {x: 61, y: -10}
+        - {x: 61, y: 11}
+    - name: clickminer_items_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -32, y: 8}
+        - {x: -32, y: -21}
+        - {x: -27, y: -47}
+        - {x: 7, y: -47}
+        - {x: 28, y: -44}
+        - {x: 28, y: 5}
+        - {x: 13, y: 16}
+    - name: clickminer_items_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 114
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 23}
+        - {x: -52, y: -48}
+        - {x: -52, y: -52}
+        - {x: -35, y: -62}
+        - {x: -31, y: -63}
+        - {x: 10, y: 9}
+        - {x: 7, y: -13}
+        - {x: -7, y: -26}
+        - {x: -9, y: -32}
+        - {x: -3, y: -64}
+        - {x: 54, y: -64}
+        - {x: 54, y: -3}
+        - {x: 42, y: 39}
+        - {x: -2, y: 39}
+        - {x: -12, y: 26}
+    - name: clickminer_items_55
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 114
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 35}
+        - {x: -52, y: -35}
+        - {x: -52, y: -62}
+        - {x: -27, y: -62}
+        - {x: 39, y: -51}
+        - {x: 59, y: -17}
+        - {x: 59, y: 29}
+        - {x: 46, y: 35}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
